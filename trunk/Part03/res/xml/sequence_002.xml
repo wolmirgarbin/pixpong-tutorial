@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<sequence name="Sequence 002">
+	<shot type="1" start="50" interval="1000" />
+	<shot type="1" start="40" interval="1000" />
+	<shot type="1" start="60" interval="1000" />
+	<shot type="1" start="30" interval="1000" />
+	<shot type="1" start="70" interval="1000" />
+	<shot type="1" start="20" interval="1000" />
+	<shot type="1" start="80" interval="1000" />
+	<shot type="1" start="10" interval="1000" />
+	<shot type="1" start="90" interval="1000" />
+	<shot type="1" start="50" interval="1000" />
+</sequence>

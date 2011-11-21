@@ -2,8 +2,8 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     android:installLocation="preferExternal"
     package="br.com.thiagorosa.pingpongmadness.tutorial"
-    android:versionCode="2"
-    android:versionName="Tutorial - Part 02" >
+    android:versionCode="3"
+    android:versionName="Tutorial - Part 03" >
 
     <uses-sdk
         android:minSdkVersion="7"

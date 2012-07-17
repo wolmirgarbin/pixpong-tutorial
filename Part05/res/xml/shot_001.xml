@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shot name="Shot 001" returnSpeed="10">
+	<movement>
+		<move start="100" speedX="5" speedY="0" />
+	</movement>
+</shot>
